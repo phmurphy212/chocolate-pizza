@@ -1,0 +1,54 @@
+em {
+  font-weight: bolder;
+}
+hr {
+  background: url(/img/hr-img.png);
+  background-size: contain;
+  height: 2px;
+  /* margin-top: 5px; */
+  position: relative;
+}
+header {
+  width: 900px; 
+  margin: 20px; 
+  margin-top: 50px;
+  margin-bottom: 10px; 
+}
+header img {
+  width: 35px;
+  float: left;
+}
+header h2 {
+font-family: 'Yellowtail', cursive;
+font-size: 2em;
+}
+header h4 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 0.5em;
+}
+header nav {
+  margin: 20px;
+  margin-top: -50px; 
+}
+nav ul {
+  float: right;
+}
+nav li {
+  display: inline;
+}
+nav img {
+  width: 20px; 
+}
+main {
+  padding-top: 20px;
+  margin: 20px;
+}
+main h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.8em; 
+}
+main h3 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 0.6em; 
+  color: #999999; 
+}
