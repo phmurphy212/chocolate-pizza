@@ -1,3 +1,6 @@
+html{
+  width:auto;
+}
 em {
   font-weight: bolder;
 }
@@ -52,3 +55,55 @@ main h3 {
   font-size: 0.6em; 
   color: #999999; 
 }
+#print {
+  float: right
+}
+
+div p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 0.6em; 
+  color: #999999;  
+}
+
+#pizza {
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+}
+
+main p {
+  width: 900px;
+}
+
+main ul {
+  background-image: url(/img/list-bg.png);
+  padding-bottom: 10px;
+  width: 900px;
+}
+#ingredient1 {
+  float: left;
+  width: 50%;
+}
+
+#ingredient2 {
+  float: right;
+  width: 50%;
+}
+
+#vanessa {
+  float: left;
+  display: inline-block;
+}
+
+#bio {
+  float: center;
+}
+
+#vanessa p {
+ float: right;
+}
+
+button {
+  float: right;
+}
+
